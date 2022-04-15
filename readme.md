@@ -7,7 +7,7 @@
 
 ## Live
 
-<a href="https://jenya-code-in-mind.herokuapp.com/"> </a>
+<a href="https://jenya-code-in-mind.herokuapp.com/">https://jenya-code-in-mind.herokuapp.com</a>
 
 ## Description
 
@@ -16,7 +16,7 @@ This is a full stack app using the MERN stack along with Graphql. Admin users ca
 ## Table of Contents
 
 - [License](#license)
-- [Live App](#live)
+- [Live](#live)
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
 - [Installation Instructions](#installation-instructions)
