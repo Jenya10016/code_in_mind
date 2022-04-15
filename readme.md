@@ -16,7 +16,7 @@ This is a full stack app using the MERN stack along with Graphql. Admin users ca
 ## Table of Contents
 
 - [License](#license)
-- [Live App](#live])
+- [Live App](#live)
 - [Description](#description)
 - [Table of Contents](#table-of-contents)
 - [Installation Instructions](#installation-instructions)
